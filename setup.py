@@ -100,7 +100,7 @@ setup(
         'Theano == 0.7.0',
         'Cython == 0.23.3',
         'numpy == 1.9.3',
-        'pymc3 == dev'
+        'pymc3'
         # eg: 'aspectlib==1.1.1', 'six>=1.7',
     ],
     dependency_links = [
